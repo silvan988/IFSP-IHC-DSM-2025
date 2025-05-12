@@ -1,0 +1,2 @@
+# IFSP-IHC-DSM-2025
+Entregas da disciplina Interface Humano Computador - DESENVOLVIMENTO DE SISTEMAS PARA DISPOSITIVOS MÓVEIS - 2025
